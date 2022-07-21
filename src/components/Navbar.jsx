@@ -31,7 +31,6 @@ const Navbar = () => {
                   About
                 </a>
               </li>
-              1
             </ul>
             <div>
               <button disabled={true} className="btn btn-primary">
